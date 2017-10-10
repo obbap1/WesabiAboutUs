@@ -1,0 +1,214 @@
+body{
+    background: url('img/sativa.png');
+    
+}
+.mainHeader {
+    color: #B92874;
+    text-align: center;
+    margin-top:40px;
+
+}
+.subHeader{
+    text-align: center;
+    margin-top:13px;
+    color:black;
+    font-family: "Goudy Old Style",Garamond,"Big caslon","Times New Roman ",serif;
+}
+.sectionDiv{
+    background-color:#F0E8E8;
+    margin-left:250px;
+    margin-right:250px;
+    padding-bottom:100px;
+    padding-top:20px;
+}
+#image1 {
+    margin-left: 150px;
+}
+#image2{
+    margin-left:580px;
+}
+.row{
+    margin-top:80px;
+}
+#labelFirst{
+    text-align:center;
+    margin-left:90px;
+    margin-right:510px;
+    margin-top:12px;
+    font-family: "Goudy Old Style",Garamond,"Big caslon","Times New Roman ",serif;
+    
+
+}
+.title{
+    font-weight:bold;
+    font-size:1.3em;
+}
+.rank {
+    font-weight:bold;
+    font-size:1.1em;
+}
+#labelSecond{
+    text-align:center;
+    margin-left:500px;
+    margin-right:50px;
+    font-family: "Goudy Old Style",Garamond,"Big caslon","Times New Roman ",serif;
+    
+}
+.divide2{
+    margin-top:-309px;
+}
+.rank2{
+    margin-top:10px;
+    font-weight:bold;
+    font-size:1.3em;
+}
+.para{
+    font-size:1.1em;
+}
+footer{
+    background-color: #B92874;
+}
+.jaiz{
+    margin-left:220px;
+}
+.capital{
+    margin-left:100px;
+}
+#labelImages{
+    text-align: left;
+    margin-top:125px;
+    margin-left:-150px;
+    font-family: "Goudy Old Style",Garamond,"Big caslon","Times New Roman ",serif;
+    
+    
+}
+.capital1{
+    margin-left:290px;
+}
+.jaiz1{
+    margin-left:250px;
+}
+#labelImages1{
+    margin-left:-180px;
+    margin-top:125px;
+    font-family: "Goudy Old Style",Garamond,"Big caslon","Times New Roman ",serif;
+    
+}
+#map {
+    height: 400px;
+    width: 100%;
+}
+.fa {
+    color:#B92874;
+}
+.subHeader3{
+    text-align: left;
+    font-weight:normal;
+    font-size:20px;
+    font-family: "Goudy Old Style",Garamond,"Big caslon","Times New Roman ",serif;
+    margin-left:17px;
+}
+.subHeader4{
+    font-weight:normal;
+    font-size:20px;
+    font-family:"Goudy Old Style",Garamond,"Big caslon","Times New Roman ",serif;
+    margin-left:610px;
+    
+}
+.subHeader6{
+    text-align: center;
+    font-size:21px;
+    font-family:"Goudy Old Style",Garamond,"Big caslon","Times New Roman ",serif;
+    margin-top:17px;
+    margin-bottom:42px;
+    font-weight:normal;
+}
+.subHeader7{
+    font-weight:normal;
+    font-size:20px;
+    font-family:"Goudy Old Style",Garamond,"Big caslon","Times New Roman ",serif;
+    margin-left:610px;
+    margin-top:-119px;
+}
+.header5{
+    font-family:"Goudy Old Style",Garamond,"Big caslon","Times New Roman ",serif;
+    text-align:center;
+}
+.subHeader5{
+    text-align: center;
+    font-weight:normal;
+}
+#span1{
+    text-align:center;
+    margin-left:385px;
+    margin-top:77px;
+}
+.fa-facebook-official{
+    margin-top:30px;
+    margin-left:12px;
+}
+.fa-facebook-official:hover, .fa-twitter:hover, .fa-linkedin:hover{
+    color: #7A7070;
+}
+.fa-twitter{
+    margin-left:12px;
+}
+@media only screen and (max-width:680px) and (min-width:480px) {
+    .sectionDiv{
+        margin-left:0;
+        margin-right:0;
+        padding-left: 50px;
+        padding-right:50px;
+    }
+    #image1 {
+        margin-left:180px;
+    }
+    #labelFirst{
+        margin-right:0px;
+        margin-left:40px;
+    }
+    #image2{
+        margin-left:180px;
+        margin-top:310px;
+    }
+    #labelSecond{
+        margin-left:40px;
+        margin-right:0;
+    }
+    .capital{
+        margin-right:0;
+        margin-left:105px;
+    }
+    .jaiz{
+        margin-right:0;
+        margin-left:105px;
+    }
+    .capital1{
+        margin-right:0;
+        margin-left:105px;
+        width:250;
+    }
+    .jaiz1{
+        margin-right:0;
+        margin-left:105px;
+    }
+    .row{
+        margin-top:30px;
+    }
+    #labelImages1{
+        margin-left:-146px;
+    }
+    .subHeader7{
+        margin-right:0;
+        margin-left:17px;
+        margin-top:70px;
+    }
+    .subHeader4{
+        margin-right:0;
+        margin-left:17px;
+        
+    }
+    #span1{
+        margin-left:170px;
+    }
+}
